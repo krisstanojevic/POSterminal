@@ -1,0 +1,41 @@
+body
+{
+    background: url('https://www.setaswall.com/wp-content/uploads/2018/04/Best-Texture-Background-28-1920x1080.jpg') fixed;
+    background-size: cover;
+    padding: 0;
+    margin: 5em;
+}
+
+.choose
+{
+    width: 10px;
+}
+
+#POSarticles
+{
+    background-color: white;
+    width: 450px;
+}
+
+.posTerminalShop
+{
+    width: 100px
+}
+
+#POSbill
+{
+    background-color: white;
+    width: 350px;
+    float:right;
+}
+
+#statistics
+{
+    background-color: white;
+}
+
+.white
+{
+    color: white;
+    margin-bottom: 10px;
+}
